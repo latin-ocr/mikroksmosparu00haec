@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0118.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 476 101 1901 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 476 101 1901 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 476 101 1901 172; baseline -0.015 -1"><span class='ocrx_word' id='word_1_1' title='bbox 476 125 578 171; x_wconf 87' lang='lat' dir='ltr'><em>DE</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 619 120 870 172; x_wconf 88' lang='lat' dir='ltr'><em>VIRIDI</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 898 114 1214 165; x_wconf 80' lang='lat' dir='ltr'><em>lVVENIS</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1251 101 1609 157; x_wconf 72' lang='lat' dir='ltr'><em>IMAGINE.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1861 120 1901 161; x_wconf 74' lang='lat' dir='ltr'><em>s]</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 105 305 1976 1719">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 105 305 1976 1719">
+     <span class='ocr_line' id='line_1_2' title="bbox 105 305 1976 1719; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 105 305 1976 1719; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 402 1841 1764 2001">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 402 1841 1764 2001">
+     <span class='ocr_line' id='line_1_3' title="bbox 402 1841 1764 1931; baseline -0.01 -23"><span class='ocrx_word' id='word_1_7' title='bbox 402 1853 760 1931; x_wconf 33' lang='lat' dir='ltr'><em>Omnit&#39;tempore</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 775 1848 927 1924; x_wconf 75' lang='lat' dir='ltr'><em>diligit</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 937 1849 1020 1923; x_wconf 80' lang='lat' dir='ltr'><em>qui</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1026 1847 1196 1901; x_wconf 71' lang='lat' dir='ltr'><em>amictu</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1205 1843 1273 1912; x_wconf 80' lang='lat' dir='ltr'><em>est,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1278 1844 1336 1906; x_wconf 53' lang='grc' dir='ltr'><em>ἀ</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1332 1841 1491 1915; x_wconf 82' lang='lat' dir='ltr'><em>frater</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1497 1846 1547 1898; x_wconf 81' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1557 1842 1764 1918; x_wconf 58' lang='lat' dir='ltr'><em>angustq&#39;s</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 707 1917 1492 2001; baseline -0.011 -20"><span class='ocrx_word' id='word_1_16' title='bbox 707 1920 1039 2001; x_wconf 64' lang='lat' dir='ltr'><em>comprobatur.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1111 1917 1333 1977; x_wconf 37' lang='lat' dir='ltr'><em>Proverb*</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1359 1941 1433 1989; x_wconf 71' lang='lat'><em>17.</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1454 1939 1492 1973; x_wconf 82' lang='lat' dir='ltr'><em>c.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

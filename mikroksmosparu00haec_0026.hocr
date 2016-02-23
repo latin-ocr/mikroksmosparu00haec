@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0026.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 639 117 1864 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 639 117 1864 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 639 117 1864 172; baseline 0.011 -13"><span class='ocrx_word' id='word_1_1' title='bbox 639 117 1077 165; x_wconf 64' lang='lat' dir='ltr'><em>J-JERBARVM</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1099 122 1377 166; x_wconf 66' lang='lat' dir='ltr'><em>VIRTVS.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1836 131 1864 172; x_wconf 78' lang='lat'><em>9</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 266 1976 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 47 266 1976 1694">
+     <span class='ocr_line' id='line_1_2' title="bbox 47 266 1976 1694; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 47 266 1976 1694; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 286 1805 1694 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 286 1805 1694 1966">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 1805 1694 1887; baseline 0.013 -28"><span class='ocrx_word' id='word_1_5' title='bbox 286 1815 441 1881; x_wconf 78' lang='lat' dir='ltr'><em>Neque</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 451 1805 603 1868; x_wconf 78' lang='lat' dir='ltr'><em>herba,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 623 1827 766 1884; x_wconf 77' lang='lat' dir='ltr'><em>neque</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 775 1810 1005 1885; x_wconf 80' lang='lat' dir='ltr'><em>malagma</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 997 1813 1196 1883; x_wconf 75' lang='lat' dir='ltr'><em>fimaust</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1204 1830 1273 1868; x_wconf 81' lang='lat' dir='ltr'><em>eos</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1273 1816 1333 1887; x_wconf 88' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1332 1814 1481 1873; x_wconf 76' lang='lat' dir='ltr'><em>dtuus</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1492 1821 1694 1878; x_wconf 74' lang='lat' dir='ltr'><em>Domine</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 513 1882 1437 1966; baseline 0.009 -29"><span class='ocrx_word' id='word_1_14' title='bbox 513 1882 909 1961; x_wconf 70' lang='lat' dir='ltr'><em>strmo‚qnistmat</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 919 1891 1087 1942; x_wconf 80' lang='lat' dir='ltr'><em>omnia.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1109 1894 1308 1966; x_wconf 82' lang='lat' dir='ltr'><em>Sapient:</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1317 1903 1381 1944; x_wconf 68' lang='grc' dir='ltr'><em>τό.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1395 1891 1437 1945; x_wconf 81' lang='lat' dir='ltr'><em>b.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

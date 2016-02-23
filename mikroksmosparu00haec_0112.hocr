@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0112.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 0 1976 2792">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 0 1976 2792">
+     <span class='ocr_line' id='line_1_1' title="bbox 80 0 1976 2792; baseline 0 -957"><span class='ocrx_word' id='word_1_1' title='bbox 80 0 1976 2792; x_wconf 95' lang='lat' dir='ltr'><em>   </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 1877 1587 2031">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 1877 1587 2031">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 1877 1587 1961; baseline -0.012 -17"><span class='ocrx_word' id='word_1_2' title='bbox 455 1891 641 1944; x_wconf 71' lang='lat' dir='ltr'><em>Cum‘Jis</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 651 1887 806 1943; x_wconf 74' lang='lat' dir='ltr'><em>diebus</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 814 1884 909 1950; x_wconf 65' lang='lat' dir='ltr'><em>ficis</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 920 1882 1166 1961; x_wconf 72' lang='lat' dir='ltr'><em>impiussttp</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1171 1877 1365 1941; x_wconf 60' lang='lat' dir='ltr'><em>erbia&amp;</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1373 1896 1587 1932; x_wconf 75' lang='lat' dir='ltr'><em>numerus</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 476 1952 1559 2031; baseline -0.009 -13"><span class='ocrx_word' id='word_1_8' title='bbox 476 1984 705 2019; x_wconf 73' lang='lat' dir='ltr'><em>armorum</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 717 1967 911 2016; x_wconf 60' lang='lat' dir='ltr'><em>incertus</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 921 1958 979 2030; x_wconf 79' lang='lat' dir='ltr'><em>est</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 989 1954 1251 2031; x_wconf 71' lang='lat' dir='ltr'><em>tyrannidis</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1262 1952 1456 2011; x_wconf 70' lang='lat' dir='ltr'><em>eiusJob.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1464 1973 1559 2020; x_wconf 42' lang='grc' dir='ltr'><em>[με.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

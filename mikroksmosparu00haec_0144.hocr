@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0144.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 129 1899 192">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 129 1899 192">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 129 1899 192; baseline 0.005 -18"><span class='ocrx_word' id='word_1_1' title='bbox 353 131 440 174; x_wconf 90' lang='lat' dir='ltr'><em>IN</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 469 130 1022 192; x_wconf 54' lang='lat' dir='ltr'><em>ARROGANTEss</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1063 129 1162 174; x_wconf 79' lang='grc' dir='ltr'><em>,ΕΤ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1194 130 1685 179; x_wconf 71' lang='lat' dir='ltr'><em>AMBJfrlosos.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1844 137 1899 181; x_wconf 68' lang='lat'><em>68</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 38 327 1976 1717">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 38 327 1976 1717">
+     <span class='ocr_line' id='line_1_2' title="bbox 38 327 1976 1717; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 38 327 1976 1717; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 455 1852 1557 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 455 1852 1557 1995">
+     <span class='ocr_line' id='line_1_3' title="bbox 455 1852 1557 1932; baseline -0.007 -19"><span class='ocrx_word' id='word_1_7' title='bbox 455 1868 482 1913; x_wconf 86' lang='lat' dir='ltr'><em>I</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 480 1879 510 1910; x_wconf 58' lang='grc' dir='ltr'><em>αι</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 522 1857 687 1932; x_wconf 60' lang='lat' dir='ltr'><em>vqstt&#39;ttt</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 698 1857 960 1927; x_wconf 62' lang='lat' dir='ltr'><em>neglorierzbs</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 975 1872 1132 1926; x_wconf 72' lang='lat' dir='ltr'><em>vnqua</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1139 1872 1280 1909; x_wconf 53' lang='lat' dir='ltr'><em>‚nanee</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1322 1856 1361 1904; x_wconf 77' lang='lat' dir='ltr'><em>ie</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1373 1852 1557 1907; x_wconf 75' lang='lat' dir='ltr'><em>hemam</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 672 1925 1356 1995; baseline -0.006 -13"><span class='ocrx_word' id='word_1_15' title='bbox 672 1932 741 1983; x_wconf 74' lang='lat' dir='ltr'><em>tui</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 755 1928 990 1982; x_wconf 65' lang='lat' dir='ltr'><em>extollaris.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1046 1925 1275 1995; x_wconf 81' lang='lat' dir='ltr'><em>Ecclefiast.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1298 1947 1356 1979; x_wconf 71' lang='grc' dir='ltr'><em>ιι.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0156.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1903 35 1923 55">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1903 35 1923 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 1903 35 1923 55; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1903 35 1923 55; x_wconf 37' lang='grc' dir='ltr'><em>γ’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 59 1933 170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 59 1933 170">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 59 1933 170; baseline -0.008 -18"><span class='ocrx_word' id='word_1_2' title='bbox 193 106 497 152; x_wconf 79' lang='lat' dir='ltr'><em>HOMINES</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 517 102 745 170; x_wconf 71' lang='lat' dir='ltr'><em>ATQE</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 768 99 1095 146; x_wconf 84' lang='lat' dir='ltr'><em>VOLVCRES</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1113 99 1393 143; x_wconf 83' lang='lat' dir='ltr'><em>PICTVRIS</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1412 59 1933 156; x_wconf 33' lang='lat' dir='ltr'><em>DECIPIVNTVRJQ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 50 290 1976 1676">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 50 290 1976 1676">
+     <span class='ocr_line' id='line_1_3' title="bbox 50 290 1976 1676; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 50 290 1976 1676; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 193 1832 1713 1917">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 193 1832 1713 1917">
+     <span class='ocr_line' id='line_1_4' title="bbox 193 1832 1713 1917; baseline -0.006 -23"><span class='ocrx_word' id='word_1_8' title='bbox 193 1884 214 1901; x_wconf 44' lang='grc' dir='ltr'><strong><em>ᾧ</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 390 1841 828 1912; x_wconf 63' lang='lat' dir='ltr'><em>Innmumrtficam</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 839 1858 967 1917; x_wconf 74' lang='lat' dir='ltr'><em>opera</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 977 1834 1298 1892; x_wconf 67' lang='lat' dir='ltr'><em>laudabuntur.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1347 1832 1582 1909; x_wconf 65' lang='lat' dir='ltr'><em>Ecclefiast.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1596 1853 1644 1897; x_wconf 68' lang='grc' dir='ltr'><em>ρ.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1670 1832 1713 1886; x_wconf 76' lang='lat' dir='ltr'><em>d.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

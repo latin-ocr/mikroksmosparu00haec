@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0070.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 697 61 1877 149">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 697 61 1877 163">
+     <span class='ocr_line' id='line_1_1' title="bbox 697 61 1877 149; baseline 0.001 -16"><span class='ocrx_word' id='word_1_1' title='bbox 697 61 930 149; x_wconf 47' lang='lat' dir='ltr'><em>‚Ag‘TAs</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 974 90 1285 135; x_wconf 72' lang='lat' dir='ltr'><em>FERREA.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1828 106 1877 145; x_wconf 63' lang='grc' dir='ltr'><em>μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 67 260 1976 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 67 260 1976 1694">
+     <span class='ocr_line' id='line_1_2' title="bbox 67 260 1976 1694; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 67 260 1976 1694; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 1805 1607 1960">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 418 1805 1607 1960">
+     <span class='ocr_line' id='line_1_3' title="bbox 418 1805 1607 1890; baseline -0.006 -22"><span class='ocrx_word' id='word_1_5' title='bbox 418 1818 705 1890; x_wconf 52' lang='lat' dir='ltr'><em>Quicunque</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 713 1830 815 1885; x_wconf 81' lang='lat' dir='ltr'><em>ergo</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 827 1809 1040 1867; x_wconf 78' lang='lat' dir='ltr'><em>voluerit,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1051 1809 1222 1860; x_wconf 77' lang='lat' dir='ltr'><em>amicus</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1232 1826 1256 1858; x_wconf 89' lang='lat' dir='ltr'><em>e</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1287 1806 1444 1870; x_wconf 62' lang='lat' dir='ltr'><em>efficuli</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1453 1805 1607 1864; x_wconf 71' lang='lat' dir='ltr'><em>huius:</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 557 1878 1491 1960; baseline -0.013 -13"><span class='ocrx_word' id='word_1_12' title='bbox 557 1890 772 1947; x_wconf 75' lang='lat' dir='ltr'><em>inimicus</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 785 1889 873 1942; x_wconf 80' lang='lat' dir='ltr'><em>Dei</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 883 1884 1177 1960; x_wconf 62' lang='lat' dir='ltr'><em>constituitur.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1204 1878 1346 1936; x_wconf 74' lang='lat' dir='ltr'><em>Iacob.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1372 1899 1420 1944; x_wconf 86' lang='lat'><em>4.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1438 1879 1491 1956; x_wconf 75' lang='lat' dir='ltr'><em>b.¹</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1928 2497 1939 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1928 2497 1939 2684">
+     <span class='ocr_line' id='line_1_5' title="bbox 1928 2497 1939 2684; textangle 90"><span class='ocrx_word' id='word_1_18' title='bbox 1928 2497 1939 2684; x_wconf 50' lang='lat' dir='ltr'><em>„qw1.-..</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

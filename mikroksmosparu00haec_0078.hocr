@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0078.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 51 1877 112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 51 1877 112">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 51 1877 112; baseline 0.008 -17"><span class='ocrx_word' id='word_1_1' title='bbox 540 51 771 96; x_wconf 89' lang='lat' dir='ltr'><em>HOMO</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 808 53 1056 98; x_wconf 87' lang='lat' dir='ltr'><em>ARBOR</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1092 53 1438 103; x_wconf 75' lang='lat' dir='ltr'><em>[NVE‘RSA.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1824 73 1877 112; x_wconf 74' lang='lat'><em>35</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 49 226 1907 1647">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 49 226 1907 1647">
+     <span class='ocr_line' id='line_1_2' title="bbox 49 226 1907 1647; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 49 226 1907 1647; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 1759 1716 1908">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 1759 1716 1900">
+     <span class='ocr_line' id='line_1_3' title="bbox 321 1759 1716 1833; baseline -0.002 -16"><span class='ocrx_word' id='word_1_6' title='bbox 321 1769 478 1817; x_wconf 52' lang='lat' dir='ltr'><em>Omnss</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 487 1766 609 1816; x_wconf 75' lang='lat' dir='ltr'><em>enim</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 621 1760 757 1814; x_wconf 76' lang='lat' dir='ltr'><em>arbor</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 766 1781 857 1833; x_wconf 76' lang='lat' dir='ltr'><em>quae</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 869 1781 961 1814; x_wconf 77' lang='lat' dir='ltr'><em>non</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 958 1760 1297 1832; x_wconf 56' lang='lat' dir='ltr'><em>fitcitfi‘uc&#39;t‘am</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1310 1759 1478 1815; x_wconf 77' lang='lat' dir='ltr'><em>bonum</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1488 1760 1716 1819; x_wconf 78' lang='lat' dir='ltr'><em>excidetur</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 614 1831 1438 1908; baseline 0.001 -19"><span class='ocrx_word' id='word_1_14' title='bbox 614 1835 699 1900; x_wconf 56' lang='grc' dir='ltr'><em>όν</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 681 1854 731 1889; x_wconf 84' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 741 1839 890 1908; x_wconf 73' lang='lat' dir='ltr'><em>ignem</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 902 1840 1013 1889; x_wconf 78' lang='lat' dir='ltr'><em>mitt</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1037 1850 1126 1889; x_wconf 73' lang='lat' dir='ltr'><em>tter.</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1146 1831 1331 1888; x_wconf 74' lang='lat' dir='ltr'><em>Mathe.</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1341 1857 1386 1900; x_wconf 79' lang='lat'><em>3.</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1405 1856 1438 1890; x_wconf 88' lang='lat' dir='ltr'><em>c.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

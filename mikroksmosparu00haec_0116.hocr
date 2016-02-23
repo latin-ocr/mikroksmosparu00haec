@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroksmosparu00haec_0116.png"; bbox 0 0 1976 2792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 478 616 1080 620">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 478 616 1080 620">
+     <span class='ocr_line' id='line_1_1' title="bbox 478 616 1080 620; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 478 616 1080 620; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 48 72 1976 1748">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 48 72 1976 1748">
+     <span class='ocr_line' id='line_1_2' title="bbox 48 72 1976 1748; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 48 72 1976 1748; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 473 1893 1644 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 473 1893 1644 2040">
+     <span class='ocr_line' id='line_1_3' title="bbox 473 1893 1644 1975; baseline 0.003 -27"><span class='ocrx_word' id='word_1_3' title='bbox 473 1899 586 1948; x_wconf 69' lang='grc' dir='ltr'><em>Εἶναι</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 590 1896 634 1947; x_wconf 76' lang='lat' dir='ltr'><em>ia</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 627 1893 772 1971; x_wconf 68' lang='lat' dir='ltr'><em>fitper</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 769 1898 981 1971; x_wconf 75' lang='lat' dir='ltr'><em>gratiam</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 995 1894 1162 1946; x_wconf 74' lang='lat' dir='ltr'><em>mulier</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1150 1895 1211 1963; x_wconf 71' lang='lat' dir='ltr'><em>ft</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1216 1916 1247 1948; x_wconf 77' lang='lat' dir='ltr'><em>n</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1252 1900 1335 1958; x_wconf 60' lang='lat' dir='ltr'><em>fla,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1343 1896 1401 1963; x_wconf 60' lang='lat' dir='ltr'><em>dv</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1396 1896 1644 1975; x_wconf 73' lang='lat' dir='ltr'><em>pudorata.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 911 1968 1222 2040; baseline 0.003 -18"><span class='ocrx_word' id='word_1_13' title='bbox 911 1968 1140 2040; x_wconf 78' lang='lat' dir='ltr'><em>Ecclestast.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1159 1979 1222 2022; x_wconf 69' lang='grc' dir='ltr'><em>τό,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
